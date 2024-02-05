@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ticktocky"
+version = "0.1.0"
+description = ""
+authors = ["biplobmanna <biplobmanna@outlook.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pytermgui = "^7.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
